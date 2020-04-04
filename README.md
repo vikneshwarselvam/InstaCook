@@ -22,4 +22,9 @@ A cooking app to help users understand cooking using ML and AI
 - [ ] Add Recommender System
 - [ ] Implement Affiliate links
 
+# Contibuters
+- Vikneshwar Selvam
+- Vivek Devendiran
+- Manoj 
+
 ### Feel free to send pull request if you have improved the UI of the app.

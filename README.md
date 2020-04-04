@@ -17,7 +17,7 @@ A cooking app to help users understand cooking using ML and AI
 # Things to do
 - [x] Basic Skeleton
 - [x] Added recipes
-- [ ] Add image classifier
+- [x] Add image classifier
 - [ ] Improve Ui
 - [ ] Add Recommender System
 - [ ] Implement Affiliate links

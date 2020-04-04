@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874895701111",
+    "firebase_url": "https://instacook-3f333.firebaseio.com",
+    "project_id": "instacook-3f333",
+    "storage_bucket": "instacook-3f333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874895701111:android:6d14fea03783647942c272",
+        "android_client_info": {
+          "package_name": "com.example.instacook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874895701111-1ma6bah8r6fgv6bg1r079auh3hfci1qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0O2gEXN35DQzv8M9cFVlREgkzgsfWeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874895701111-1ma6bah8r6fgv6bg1r079auh3hfci1qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

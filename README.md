@@ -1,5 +1,7 @@
 # InstaCook
 A cooking app to help users understand cooking using ML and AI
+# Watch the App promo
+(https://youtu.be/3xnbOrxW2D8)
 # Screenshots
 ![Screenshot](/login_page.jpg)
 ![Screenshot](/Screenshot-1.jpg)
@@ -7,7 +9,7 @@ A cooking app to help users understand cooking using ML and AI
 ![Screenshot](/chatbot.jpg)
 ![Screenshot](/Screenshot-3.jpg)
 ![Screenshot](/Screenshot-2.jpg)
-![Watch the video](/login_page.jpg)(https://youtu.be/3xnbOrxW2D8)
+
 
 # Getting Started
 1. Clone the repository: **git clone https://github.com/vikneshwarselvam/InstaCook.git**
